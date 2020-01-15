@@ -1,0 +1,914 @@
+C:\Users\silvi\source\repos\Impulse\bin\Debug\Impulse.exe.config
+C:\Users\silvi\source\repos\Impulse\bin\Debug\Impulse.exe
+C:\Users\silvi\source\repos\Impulse\bin\Debug\Impulse.pdb
+C:\Users\silvi\source\repos\Impulse\obj\Debug\Impulse.csprojAssemblyReference.cache
+C:\Users\silvi\source\repos\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+C:\Users\silvi\source\repos\Impulse\obj\Debug\Impulse.csproj.GenerateResource.cache
+C:\Users\silvi\source\repos\Impulse\obj\Debug\Impulse.csproj.CoreCompileInputs.cache
+C:\Users\silvi\source\repos\Impulse\obj\Debug\Impulse.exe
+C:\Users\silvi\source\repos\Impulse\obj\Debug\Impulse.pdb
+C:\Users\silvi\source\repos\Impulse\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\silvi\source\repos\Impulse\obj\Debug\Impulse.Form1.resources
+C:\Users\silvi\source\repos\Impulse\obj\Debug\Impulse.csproj.CopyComplete
+D:\BUNIFU\Impulse\bin\Debug\Impulse.exe.config
+D:\BUNIFU\Impulse\obj\Debug\Impulse.exe
+D:\BUNIFU\Impulse\obj\Debug\Impulse.pdb
+D:\BUNIFU\Impulse\bin\Debug\Impulse.exe
+D:\BUNIFU\Impulse\bin\Debug\Impulse.pdb
+D:\BUNIFU\Impulse\obj\Debug\Impulse.csprojResolveAssemblyReference.cache
+D:\BUNIFU\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+D:\BUNIFU\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+D:\BUNIFU\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+D:\BUNIFU\Impulse\obj\Debug\Impulse.FrmLogin.resources
+C:\Users\silvi\Desktop\Impulse\bin\Debug\Impulse.exe.config
+C:\Users\silvi\Desktop\Impulse\bin\Debug\Impulse.exe
+C:\Users\silvi\Desktop\Impulse\bin\Debug\Impulse.pdb
+C:\Users\silvi\Desktop\Impulse\obj\Debug\Impulse.csprojAssemblyReference.cache
+C:\Users\silvi\Desktop\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+C:\Users\silvi\Desktop\Impulse\obj\Debug\Impulse.FrmLogin.resources
+C:\Users\silvi\Desktop\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+C:\Users\silvi\Desktop\Impulse\obj\Debug\Impulse.csproj.GenerateResource.cache
+C:\Users\silvi\Desktop\Impulse\obj\Debug\Impulse.csproj.CoreCompileInputs.cache
+C:\Users\silvi\Desktop\Impulse\obj\Debug\Impulse.csproj.CopyComplete
+C:\Users\silvi\Desktop\Impulse\obj\Debug\Impulse.exe
+C:\Users\silvi\Desktop\Impulse\obj\Debug\Impulse.pdb
+C:\Users\silvi\Desktop\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+C:\Users\silvi\Desktop\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+C:\Users\silvi\Desktop\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+C:\Users\silvi\Desktop\Impulse\obj\Debug\Impulse.FrmCadFornecedores.resources
+C:\Users\silvi\Desktop\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+C:\Users\silvi\Desktop\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+C:\Users\silvi\Desktop\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+C:\Users\silvi\Desktop\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\bin\Debug\Impulse.exe.config
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\bin\Debug\Impulse.exe
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\bin\Debug\Impulse.pdb
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\obj\Debug\Impulse.csprojAssemblyReference.cache
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\obj\Debug\Impulse.FrmCompra.resources
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\obj\Debug\Impulse.FrmCadFornecedores.resources
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\obj\Debug\Impulse.FrmDadosForncedores.resources
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\obj\Debug\Impulse.FrmEstoque.resources
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\obj\Debug\Impulse.FrmLogin.resources
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\obj\Debug\Impulse.FrmMenu.resources
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\obj\Debug\Impulse.csproj.GenerateResource.cache
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\obj\Debug\Impulse.csproj.CoreCompileInputs.cache
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\obj\Debug\Impulse.csproj.CopyComplete
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\obj\Debug\Impulse.exe
+C:\Users\silvi\Desktop\TCC coisinhas\Impulse\obj\Debug\Impulse.pdb
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\bin\Debug\Impulse.exe.config
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.exe
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.pdb
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\bin\Debug\Impulse.exe
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\bin\Debug\Impulse.pdb
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.csprojResolveAssemblyReference.cache
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.FrmCompra.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.FrmCadFornecedores.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.FrmEstoque.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.FrmLogin.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.FrmMenu.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.FrmDadosFornecedores.resources
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\obj\Debug\Impulse.csprojAssemblyReference.cache
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\obj\Debug\Impulse.FrmCompra.resources
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\obj\Debug\Impulse.FrmCadFornecedores.resources
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\obj\Debug\Impulse.FrmDadosFornecedores.resources
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\obj\Debug\Impulse.FrmEstoque.resources
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\obj\Debug\Impulse.FrmLogin.resources
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\obj\Debug\Impulse.FrmMenu.resources
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\obj\Debug\Impulse.csproj.GenerateResource.cache
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\obj\Debug\Impulse.csproj.CoreCompileInputs.cache
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\obj\Debug\Impulse.exe
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\obj\Debug\Impulse.pdb
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\bin\Debug\Impulse.exe.config
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\bin\Debug\Impulse.exe
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\bin\Debug\Impulse.pdb
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\obj\Debug\Impulse.csproj.CopyComplete
+C:\Users\silvi\Desktop\TCC coisinhas\19 de agosto\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\bin\Debug\Impulse.exe.config
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\obj\Debug\Impulse.exe
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\obj\Debug\Impulse.pdb
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\bin\Debug\Impulse.exe
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\bin\Debug\Impulse.pdb
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\obj\Debug\Impulse.FrmCompra.resources
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\obj\Debug\Impulse.FrmCadFornecedores.resources
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\obj\Debug\Impulse.FrmDadosFornecedores.resources
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\obj\Debug\Impulse.FrmEstoque.resources
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\obj\Debug\Impulse.FrmLogin.resources
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\obj\Debug\Impulse.FrmMenu.resources
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\obj\Debug\Impulse.csprojAssemblyReference.cache
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\obj\Debug\Impulse.csproj.CoreCompileInputs.cache
+D:\COisas dA heLOIsA\TCC coisinhas\26 de agosto\aaaaaa\Impulse\obj\Debug\Impulse.csproj.CopyComplete
+C:\Users\silvi\Desktop\Impulse\obj\Debug\Impulse.FrmCompra.resources
+C:\Users\silvi\Desktop\Impulse\obj\Debug\Impulse.FrmDadosFornecedores.resources
+C:\Users\silvi\Desktop\Impulse\obj\Debug\Impulse.FrmEstoque.resources
+C:\Users\silvi\Desktop\Impulse\obj\Debug\Impulse.FrmMenu.resources
+C:\Users\silvi\Desktop\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+F:\BUNIFU\dia 6 de setembro\Impulse\bin\Debug\Impulse.exe.config
+F:\BUNIFU\dia 6 de setembro\Impulse\bin\Debug\Impulse.exe
+F:\BUNIFU\dia 6 de setembro\Impulse\bin\Debug\Impulse.pdb
+F:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.csprojAssemblyReference.cache
+F:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+F:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+F:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+F:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+F:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmCompra.resources
+F:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+F:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmCadFornecedores.resources
+F:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+F:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+F:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmDadosFornecedores.resources
+F:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+F:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmEstoque.resources
+F:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmLogin.resources
+F:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmMenu.resources
+F:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+F:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+F:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.csproj.GenerateResource.cache
+F:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.csproj.CoreCompileInputs.cache
+F:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.csproj.CopyComplete
+F:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.exe
+F:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.pdb
+E:\BUNIFU\dia 6 de setembro\Impulse\bin\Debug\Impulse.exe.config
+E:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.exe
+E:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.pdb
+E:\BUNIFU\dia 6 de setembro\Impulse\bin\Debug\Impulse.exe
+E:\BUNIFU\dia 6 de setembro\Impulse\bin\Debug\Impulse.pdb
+E:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.csprojResolveAssemblyReference.cache
+E:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+E:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+E:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+E:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+E:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmCompra.resources
+E:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+E:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmCadFornecedores.resources
+E:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+E:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+E:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmDadosFornecedores.resources
+E:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+E:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmEstoque.resources
+E:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmLogin.resources
+E:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmMenu.resources
+E:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+E:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+E:\BUNIFU\dia 6 de setembro\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\bin\Debug\Impulse.exe.config
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\bin\Debug\Impulse.exe
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\bin\Debug\Impulse.pdb
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.csprojAssemblyReference.cache
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmCompra.resources
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmCadFornecedores.resources
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmDadosFornecedores.resources
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmEstoque.resources
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmLogin.resources
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmMenu.resources
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.csproj.GenerateResource.cache
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.csproj.CoreCompileInputs.cache
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.csproj.CopyComplete
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.exe
+C:\Users\silvi\Desktop\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.pdb
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\bin\Debug\Impulse.exe.config
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.exe
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.pdb
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\bin\Debug\Impulse.exe
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\bin\Debug\Impulse.pdb
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.csprojResolveAssemblyReference.cache
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmCompra.resources
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmCadFornecedores.resources
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmDadosFornecedores.resources
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmEstoque.resources
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmLogin.resources
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmMenu.resources
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+D:\BUNIFU\socorrodeus\TCC TELAS\dia 6 de setembro\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+D:\TCC TElas\Impulse\bin\Debug\Impulse.exe.config
+D:\TCC TElas\Impulse\obj\Debug\Impulse.exe
+D:\TCC TElas\Impulse\obj\Debug\Impulse.pdb
+D:\TCC TElas\Impulse\bin\Debug\Impulse.exe
+D:\TCC TElas\Impulse\bin\Debug\Impulse.pdb
+D:\TCC TElas\Impulse\obj\Debug\Impulse.csprojResolveAssemblyReference.cache
+D:\TCC TElas\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+D:\TCC TElas\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+D:\TCC TElas\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+D:\TCC TElas\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+D:\TCC TElas\Impulse\obj\Debug\Impulse.FrmCompra.resources
+D:\TCC TElas\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+D:\TCC TElas\Impulse\obj\Debug\Impulse.FrmCadFornecedores.resources
+D:\TCC TElas\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+D:\TCC TElas\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+D:\TCC TElas\Impulse\obj\Debug\Impulse.FrmDadosFornecedores.resources
+D:\TCC TElas\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+D:\TCC TElas\Impulse\obj\Debug\Impulse.FrmEstoque.resources
+D:\TCC TElas\Impulse\obj\Debug\Impulse.FrmLogin.resources
+D:\TCC TElas\Impulse\obj\Debug\Impulse.FrmMenu.resources
+D:\TCC TElas\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+D:\TCC TElas\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+D:\TCC TElas\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+C:\Users\silvi\Desktop\TCC TElas\Impulse\bin\Debug\Impulse.exe.config
+C:\Users\silvi\Desktop\TCC TElas\Impulse\bin\Debug\Impulse.exe
+C:\Users\silvi\Desktop\TCC TElas\Impulse\bin\Debug\Impulse.pdb
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.csprojAssemblyReference.cache
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.FrmCompra.resources
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.FrmCadFornecedores.resources
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.FrmDadosFornecedores.resources
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.FrmEstoque.resources
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.FrmLogin.resources
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.FrmMenu.resources
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.FrmPagamento.resources
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.csproj.GenerateResource.cache
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.csproj.CoreCompileInputs.cache
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.csproj.CopyComplete
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.exe
+C:\Users\silvi\Desktop\TCC TElas\Impulse\obj\Debug\Impulse.pdb
+C:\Users\aluno\Desktop\TCC Telas\TCC Telas\Impulse\bin\Debug\Impulse.exe.config
+C:\Users\aluno\Desktop\TCC Telas\TCC Telas\Impulse\obj\Debug\Impulse.exe
+C:\Users\aluno\Desktop\TCC Telas\TCC Telas\Impulse\obj\Debug\Impulse.pdb
+D:\TCC TElas\TCC Telas\Impulse\bin\Debug\Impulse.exe.config
+D:\TCC TElas\TCC Telas\Impulse\obj\Debug\Impulse.csprojResolveAssemblyReference.cache
+D:\TCC TElas\TCC Telas\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+D:\TCC TElas\TCC Telas\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+D:\TCC TElas\TCC Telas\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+D:\TCC TElas\TCC Telas\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+D:\TCC TElas\TCC Telas\Impulse\obj\Debug\Impulse.FrmCompra.resources
+D:\TCC TElas\TCC Telas\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+D:\TCC TElas\TCC Telas\Impulse\obj\Debug\Impulse.FrmCadFornecedores.resources
+D:\TCC TElas\TCC Telas\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+D:\TCC TElas\TCC Telas\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+D:\TCC TElas\TCC Telas\Impulse\obj\Debug\Impulse.FrmDadosFornecedores.resources
+D:\TCC TElas\TCC Telas\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+D:\TCC TElas\TCC Telas\Impulse\obj\Debug\Impulse.FrmEstoque.resources
+D:\TCC TElas\TCC Telas\Impulse\obj\Debug\Impulse.FrmLogin.resources
+D:\TCC TElas\TCC Telas\Impulse\obj\Debug\Impulse.FrmMenu.resources
+D:\TCC TElas\TCC Telas\Impulse\obj\Debug\Impulse.FrmPagamento.resources
+D:\TCC TElas\TCC Telas\Impulse\obj\Debug\Impulse.FrmPagar.resources
+D:\TCC TElas\TCC Telas\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+D:\TCC TElas\TCC Telas\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+D:\TCC TElas\TCC Telas\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+C:\Users\aluno.FPRESTES\Desktop\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulse\obj\Debug\Impulse.FrmCompra.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulse\obj\Debug\Impulse.FrmCadFornecedores.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulse\obj\Debug\Impulse.FrmDadosFornecedores.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulse\obj\Debug\Impulse.FrmEstoque.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulse\obj\Debug\Impulse.FrmLogin.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulse\obj\Debug\Impulse.FrmMenu.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulse\obj\Debug\Impulse.FrmPagamento.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulse\obj\Debug\Impulse.FrmPagar.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+C:\Users\aluno.FPRESTES\Desktop\Impulse\bin\Debug\Impulse.exe.config
+C:\Users\aluno.FPRESTES\Desktop\Impulse\bin\Debug\Impulse.exe
+C:\Users\aluno.FPRESTES\Desktop\Impulse\bin\Debug\Impulse.pdb
+C:\Users\aluno.FPRESTES\Desktop\Impulse\obj\Debug\Impulse.exe
+C:\Users\aluno.FPRESTES\Desktop\Impulse\obj\Debug\Impulse.pdb
+D:\tcczada\Impulse\bin\Debug\Impulse.exe.config
+D:\tcczada\Impulse\obj\Debug\Impulse.exe
+D:\tcczada\Impulse\obj\Debug\Impulse.pdb
+D:\tcczada\Impulse\bin\Debug\Impulse.exe
+D:\tcczada\Impulse\bin\Debug\Impulse.pdb
+D:\tcczada\Impulse\obj\Debug\Impulse.csprojResolveAssemblyReference.cache
+D:\tcczada\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+D:\tcczada\Impulse\obj\Debug\Impulse.FormCadClientesPesquisar.resources
+D:\tcczada\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+D:\tcczada\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+D:\tcczada\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+D:\tcczada\Impulse\obj\Debug\Impulse.FrmCompra.resources
+D:\tcczada\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+D:\tcczada\Impulse\obj\Debug\Impulse.FrmCadFornecedores.resources
+D:\tcczada\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+D:\tcczada\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+D:\tcczada\Impulse\obj\Debug\Impulse.FrmDadosFornecedores.resources
+D:\tcczada\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+D:\tcczada\Impulse\obj\Debug\Impulse.FrmEstoque.resources
+D:\tcczada\Impulse\obj\Debug\Impulse.FrmLogin.resources
+D:\tcczada\Impulse\obj\Debug\Impulse.FrmMenu.resources
+D:\tcczada\Impulse\obj\Debug\Impulse.FrmPagamento.resources
+D:\tcczada\Impulse\obj\Debug\Impulse.FrmPagar.resources
+D:\tcczada\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+D:\tcczada\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+D:\tcczada\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.FormCadClientesPesquisar.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.FrmPagamento.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.FrmPagar.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.csprojResolveAssemblyReference.cache
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.FormCadClientesPesquisar.resources
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCompra.resources
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadFornecedores.resources
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosFornecedores.resources
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmEstoque.resources
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmLogin.resources
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmMenu.resources
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPagamento.resources
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPagar.resources
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.exe
+E:\TCCZADA2\Impulse\obj\Debug\Impulse.pdb
+E:\TCCZADA2\Impulse\bin\Debug\Impulse.exe.config
+E:\TCCZADA2\Impulse\bin\Debug\Impulse.exe
+E:\TCCZADA2\Impulse\bin\Debug\Impulse.pdb
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\obj\Debug\Impulse.exe
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\bin\Debug\Impulse.exe
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\bin\Debug\Impulse.pdb
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\bin\Debug\Impulse.exe.config
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\obj\Debug\Impulse.FormCadClientesPesquisar.resources
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\obj\Debug\Impulse.FrmLogin.resources
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\obj\Debug\Impulse.FrmMenu.resources
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPagamento.resources
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPagar.resources
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\obj\Debug\Impulse.pdb
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\obj\Debug\Impulse.csprojResolveAssemblyReference.cache
+D:\TCCZADA2\Impulse\bin\Debug\Impulse.exe.config
+D:\TCCZADA2\Impulse\bin\Debug\Impulse.exe
+D:\TCCZADA2\Impulse\bin\Debug\Impulse.pdb
+D:\TCCZADA2\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+D:\TCCZADA2\Impulse\obj\Debug\Impulse.FormCadClientesPesquisar.resources
+D:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+D:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+D:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+D:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+D:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+D:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+D:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+D:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmLogin.resources
+D:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmMenu.resources
+D:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPagamento.resources
+D:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPagar.resources
+D:\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+D:\TCCZADA2\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+D:\TCCZADA2\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+D:\TCCZADA2\Impulse\obj\Debug\Impulse.exe
+D:\TCCZADA2\Impulse\obj\Debug\Impulse.pdb
+C:\Users\aluno.FPRESTES\Desktop\TCCZADA2\Impulse\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\aluno.FPRESTES\Desktop\tccZADA3\TCCZADA2\Impulse\bin\Debug\Impulse.exe.config
+C:\Users\aluno.FPRESTES\Desktop\tccZADA3\TCCZADA2\Impulse\bin\Debug\Impulse.exe
+C:\Users\aluno.FPRESTES\Desktop\tccZADA3\TCCZADA2\Impulse\bin\Debug\Impulse.pdb
+C:\Users\aluno.FPRESTES\Desktop\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.csprojResolveAssemblyReference.cache
+C:\Users\aluno.FPRESTES\Desktop\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+C:\Users\aluno.FPRESTES\Desktop\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadastroVenda.resources
+C:\Users\aluno.FPRESTES\Desktop\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+C:\Users\aluno.FPRESTES\Desktop\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+C:\Users\aluno.FPRESTES\Desktop\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+C:\Users\aluno.FPRESTES\Desktop\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+C:\Users\aluno.FPRESTES\Desktop\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+C:\Users\aluno.FPRESTES\Desktop\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+C:\Users\aluno.FPRESTES\Desktop\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+C:\Users\aluno.FPRESTES\Desktop\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmLogin.resources
+C:\Users\aluno.FPRESTES\Desktop\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmMenu.resources
+C:\Users\aluno.FPRESTES\Desktop\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPagamento.resources
+C:\Users\aluno.FPRESTES\Desktop\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPagar.resources
+C:\Users\aluno.FPRESTES\Desktop\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+C:\Users\aluno.FPRESTES\Desktop\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+C:\Users\aluno.FPRESTES\Desktop\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+C:\Users\aluno.FPRESTES\Desktop\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.exe
+C:\Users\aluno.FPRESTES\Desktop\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.pdb
+C:\Users\aluno.FPRESTES\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\bin\Debug\Impulse.exe.config
+C:\Users\aluno.FPRESTES\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\bin\Debug\Impulse.exe
+C:\Users\aluno.FPRESTES\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\bin\Debug\Impulse.pdb
+C:\Users\aluno.FPRESTES\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.csprojResolveAssemblyReference.cache
+C:\Users\aluno.FPRESTES\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+C:\Users\aluno.FPRESTES\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadastroVenda.resources
+C:\Users\aluno.FPRESTES\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+C:\Users\aluno.FPRESTES\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+C:\Users\aluno.FPRESTES\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+C:\Users\aluno.FPRESTES\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+C:\Users\aluno.FPRESTES\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+C:\Users\aluno.FPRESTES\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+C:\Users\aluno.FPRESTES\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+C:\Users\aluno.FPRESTES\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmLogin.resources
+C:\Users\aluno.FPRESTES\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmMenu.resources
+C:\Users\aluno.FPRESTES\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPagamento.resources
+C:\Users\aluno.FPRESTES\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPagar.resources
+C:\Users\aluno.FPRESTES\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+C:\Users\aluno.FPRESTES\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+C:\Users\aluno.FPRESTES\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+C:\Users\aluno.FPRESTES\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.exe
+C:\Users\aluno.FPRESTES\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.pdb
+C:\Users\aluno\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\bin\Debug\Impulse.exe.config
+C:\Users\aluno\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.exe
+C:\Users\aluno\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.pdb
+C:\Users\aluno\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\bin\Debug\Impulse.exe
+C:\Users\aluno\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\bin\Debug\Impulse.pdb
+C:\Users\aluno\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+C:\Users\aluno\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadastroVenda.resources
+C:\Users\aluno\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+C:\Users\aluno\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+C:\Users\aluno\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+C:\Users\aluno\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+C:\Users\aluno\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+C:\Users\aluno\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+C:\Users\aluno\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+C:\Users\aluno\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmLogin.resources
+C:\Users\aluno\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmMenu.resources
+C:\Users\aluno\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPagamento.resources
+C:\Users\aluno\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPagar.resources
+C:\Users\aluno\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+C:\Users\aluno\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+C:\Users\aluno\Desktop\tcczada4\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\tcczada5\tccZADA3\TCCZADA2\Impulse\bin\Debug\Impulse.exe.config
+C:\Users\aluno\Desktop\tcczada5\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.exe
+C:\Users\aluno\Desktop\tcczada5\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.pdb
+C:\Users\aluno\Desktop\tcczada5\tccZADA3\TCCZADA2\Impulse\bin\Debug\Impulse.exe
+C:\Users\aluno\Desktop\tcczada5\tccZADA3\TCCZADA2\Impulse\bin\Debug\Impulse.pdb
+C:\Users\aluno\Desktop\tcczada5\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\tcczada5\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+C:\Users\aluno\Desktop\tcczada5\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadastroVenda.resources
+C:\Users\aluno\Desktop\tcczada5\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+C:\Users\aluno\Desktop\tcczada5\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+C:\Users\aluno\Desktop\tcczada5\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+C:\Users\aluno\Desktop\tcczada5\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+C:\Users\aluno\Desktop\tcczada5\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+C:\Users\aluno\Desktop\tcczada5\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+C:\Users\aluno\Desktop\tcczada5\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+C:\Users\aluno\Desktop\tcczada5\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmLogin.resources
+C:\Users\aluno\Desktop\tcczada5\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmMenu.resources
+C:\Users\aluno\Desktop\tcczada5\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPagamento.resources
+C:\Users\aluno\Desktop\tcczada5\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPagar.resources
+C:\Users\aluno\Desktop\tcczada5\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+C:\Users\aluno\Desktop\tcczada5\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+C:\Users\aluno\Desktop\tcczada5\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+D:\tcczada6\tccZADA3\TCCZADA2\Impulse\bin\Debug\Impulse.exe.config
+D:\tcczada6\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.exe
+D:\tcczada6\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.pdb
+D:\tcczada6\tccZADA3\TCCZADA2\Impulse\bin\Debug\Impulse.exe
+D:\tcczada6\tccZADA3\TCCZADA2\Impulse\bin\Debug\Impulse.pdb
+D:\tcczada6\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.csprojResolveAssemblyReference.cache
+D:\tcczada6\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+D:\tcczada6\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadastroVenda.resources
+D:\tcczada6\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+D:\tcczada6\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+D:\tcczada6\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+D:\tcczada6\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+D:\tcczada6\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+D:\tcczada6\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+D:\tcczada6\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+D:\tcczada6\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmLogin.resources
+D:\tcczada6\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmMenu.resources
+D:\tcczada6\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPagamento.resources
+D:\tcczada6\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPagar.resources
+D:\tcczada6\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+D:\tcczada6\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+D:\tcczada6\tccZADA3\TCCZADA2\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+C:\Users\Khovovo\Desktop\é\Impulse\bin\Debug\Impulse.exe.config
+C:\Users\Khovovo\Desktop\é\Impulse\bin\Debug\Impulse.exe
+C:\Users\Khovovo\Desktop\é\Impulse\bin\Debug\Impulse.pdb
+C:\Users\Khovovo\Desktop\é\Impulse\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Khovovo\Desktop\é\Impulse\obj\Debug\Impulse.csprojAssemblyReference.cache
+C:\Users\Khovovo\Desktop\é\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+C:\Users\Khovovo\Desktop\é\Impulse\obj\Debug\Impulse.FrmCadastroVenda.resources
+C:\Users\Khovovo\Desktop\é\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+C:\Users\Khovovo\Desktop\é\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+C:\Users\Khovovo\Desktop\é\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+C:\Users\Khovovo\Desktop\é\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+C:\Users\Khovovo\Desktop\é\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+C:\Users\Khovovo\Desktop\é\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+C:\Users\Khovovo\Desktop\é\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+C:\Users\Khovovo\Desktop\é\Impulse\obj\Debug\Impulse.FrmLogin.resources
+C:\Users\Khovovo\Desktop\é\Impulse\obj\Debug\Impulse.FrmMenu.resources
+C:\Users\Khovovo\Desktop\é\Impulse\obj\Debug\Impulse.FrmPagamento.resources
+C:\Users\Khovovo\Desktop\é\Impulse\obj\Debug\Impulse.FrmPagar.resources
+C:\Users\Khovovo\Desktop\é\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+C:\Users\Khovovo\Desktop\é\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+C:\Users\Khovovo\Desktop\é\Impulse\obj\Debug\Impulse.csproj.GenerateResource.cache
+C:\Users\Khovovo\Desktop\é\Impulse\obj\Debug\Impulse.csproj.CopyComplete
+C:\Users\Khovovo\Desktop\é\Impulse\obj\Debug\Impulse.exe
+C:\Users\Khovovo\Desktop\é\Impulse\obj\Debug\Impulse.pdb
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\bin\Debug\Impulse.exe.config
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\bin\Debug\Impulse.exe
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\bin\Debug\Impulse.pdb
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\obj\Debug\Impulse.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\obj\Debug\Impulse.FrmCadastroVenda.resources
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\obj\Debug\Impulse.FrmLogin.resources
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\obj\Debug\Impulse.FrmMenu.resources
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\obj\Debug\Impulse.FrmPagamento.resources
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\obj\Debug\Impulse.FrmPagar.resources
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\obj\Debug\Impulse.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\obj\Debug\Impulse.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\obj\Debug\Impulse.csproj.CopyComplete
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\obj\Debug\Impulse.exe
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\obj\Debug\Impulse.pdb
+C:\Users\lucas\Downloads\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee\Impulse\obj\Debug\Impulse.Backup.resources
+E:\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.exe.config
+E:\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.exe
+E:\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.pdb
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csprojResolveAssemblyReference.cache
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.Backup.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadastroVenda.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmLogin.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmMenu.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPagamento.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPagar.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.exe.config
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.exe
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.pdb
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.exe
+C:\Users\aluno.FPRESTES\Desktop\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.pdb
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.exe.config
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.exe
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.pdb
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.Backup.resources
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadastroVenda.resources
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmLogin.resources
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmMenu.resources
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPagamento.resources
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPagar.resources
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.exe
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.pdb
+D:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.exe.config
+D:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.exe
+D:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.pdb
+D:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+D:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.Backup.resources
+D:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadastroVenda.resources
+D:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+D:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+D:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+D:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+D:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+D:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+D:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+D:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmLogin.resources
+D:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmMenu.resources
+D:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPagamento.resources
+D:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPagar.resources
+D:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+D:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+D:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+D:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.exe
+D:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.pdb
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csprojAssemblyReference.cache
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csproj.CoreCompileInputs.cache
+E:\Backup TCC\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csproj.CopyComplete
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.Backup.resources
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadastroVenda.resources
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmLogin.resources
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmMenu.resources
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPagamento.resources
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPagar.resources
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.exe
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.pdb
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.exe.config
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.exe
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.pdb
+C:\Users\lucas\Documents\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csproj.CopyComplete
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.exe.config
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.exe
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.pdb
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.Backup.resources
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadastroVenda.resources
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmLogin.resources
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmMenu.resources
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPagar.resources
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.exe
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.pdb
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmAlterarFeira.resources
+C:\Users\aluno.FPRESTES\Desktop\Backup tcc 2\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csprojResolveAssemblyReference.cache
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.exe.config
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.exe
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.pdb
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.exe
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.pdb
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csprojResolveAssemblyReference.cache
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.Backup.resources
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadastroVenda.resources
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmLogin.resources
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmMenu.resources
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmAlterarFeira.resources
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPagar.resources
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+E:\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.exe.config
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.exe
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.pdb
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.Backup.resources
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadastroVenda.resources
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmLogin.resources
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmMenu.resources
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmAlterarFeira.resources
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPagar.resources
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csproj.GenerateResource.cache
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csproj.CoreCompileInputs.cache
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csproj.CopyComplete
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.exe
+D:\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.pdb
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.exe.config
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.exe
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.pdb
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.exe
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.pdb
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csprojResolveAssemblyReference.cache
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.Backup.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadastroVenda.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmLogin.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmMenu.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmAlterarFeira.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPagar.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csproj.GenerateResource.Cache
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmRptPendencias.resources
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\RdlCompile.cache
+C:\Users\aluno.FPRESTES.000\Desktop\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\RdlCompile.compiled
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.exe.config
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.exe
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.pdb
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csprojAssemblyReference.cache
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.Backup.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadastroVenda.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmLogin.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmMenu.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmAlterarFeira.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPagar.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmRptPendencias.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csproj.GenerateResource.cache
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csproj.CopyComplete
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.exe
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.pdb
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Backup200\Backup tcc 2\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csprojAssemblyReference.cache
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.ApagoDepois.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.Backup.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadastroVenda.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmAlterarSenha.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadClientes.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadVenda.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosFeiras.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmCadProdutos.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosClientes.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmDadosProdutos.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmLogin.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmMenu.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmAlterarFeira.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPagar.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmPendencias.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.FrmRptPendencias.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.Properties.Resources.resources
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csproj.GenerateResource.cache
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\RdlCompile.cache
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\RdlCompile.compiled
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.exe
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.pdb
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.exe.config
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.exe
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Impulse.pdb
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\EnvDTE.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\stdole.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\Microsoft.MSXML.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PICHAU\Documents\pendrovis\ACABOU\Impulseeeeeeeeeeeeeeeeeeeeeeeeeee de casa\Impulse\obj\Debug\Impulse.csproj.CopyComplete
